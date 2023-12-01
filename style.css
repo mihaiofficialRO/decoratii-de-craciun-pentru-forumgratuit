@@ -1,0 +1,99 @@
+.headerbar {
+    background: #C60800;
+    background-blend-mode: hard-light;
+    background-image: url(https://i.servimg.com/u/f58/20/17/62/59/970x5410.gif);
+    background-repeat: repeat-x!important;
+    background-size: contain!important;
+    min-height: 200px;
+}
+#page-header .navbar {
+    background: #C60800;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+}
+a#footer_brand div img {
+    display: none;
+}
+span.forum-footer-event {
+    background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png);
+    padding: 26px 40px;
+    background-position: -211px -310px !important;
+}
+ .col-span-forum-1 {
+    background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -22px -17px;
+    width: 200px;
+    height: 25px;
+}
+.col-span-forum-3.image_winter0, .col-span-forum-3.image_winter4 {
+    background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) 2.1% -87px;
+    width: 100px;
+    height: 52px;
+    position: absolute;
+    top: 0px;
+    margin-top: -23px;
+    right: -2px;
+}
+
+.col-span-forum-3.image_winter1 {
+background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -15.8% -87px;
+    width: 100px;
+    height: 52px;
+    position: absolute;
+    top: 0px;
+    margin-top: -23px;
+    right: -2px;
+}
+
+.col-span-forum-3.image_winter2 {
+background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -35.8% -87px;
+    width: 100px;
+    height: 52px;
+    position: absolute;
+    top: 0px;
+    margin-top: -23px;
+    right: -2px;
+}
+
+.col-span-forum-3.image_winter3 {
+background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -61.4% -87px;
+    width: 100px;
+    height: 52px;
+    position: absolute;
+    top: 0px;
+    margin-top: -23px;
+    right: -2px;
+}
+
+.col-span-forum-3.image_winter-section {
+    background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -87% -87px;
+    width: 100px;
+    height: 52px;
+    position: absolute;
+    top: 0px;
+    margin-top: -23px;
+    right: -2px;
+}
+.forum-event {
+    width: 100%;
+    background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) 0 -59px;
+    margin-top: -13px;
+    position: relative;
+    top: 23px;
+}
+.forabg .header, .forumbg .header {
+background: #369FCF url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) 0 -150px;
+}
+.module:before {
+    content: "";
+    background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png);
+    padding: 23px 19px;
+    position: absolute;
+    right: -14px;
+    top: -23px;
+    z-index: 8;
+    background-position: -220px 0;
+}
+.module {
+  position: relative;
+  overflow: visible;
+}
