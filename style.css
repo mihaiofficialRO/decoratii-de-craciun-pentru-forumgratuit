@@ -1,7 +1,8 @@
+/*   SNOW ON HEADER */
 .headerbar {
     background: #C60800;
     background-blend-mode: hard-light;
-    background-image: url(https://i.servimg.com/u/f58/20/17/62/59/970x5410.gif);
+    background-image: url(https://i.servimg.com/u/f58/20/17/62/59/craciu10.gif);
     background-repeat: repeat-x!important;
     background-size: contain!important;
     min-height: 200px;
@@ -35,7 +36,7 @@ span.forum-footer-event {
 }
 
 .col-span-forum-3.image_winter1 {
-background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -15.8% -87px;
+    background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -15.8% -87px;
     width: 100px;
     height: 52px;
     position: absolute;
@@ -45,7 +46,7 @@ background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -15.8% -87
 }
 
 .col-span-forum-3.image_winter2 {
-background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -35.8% -87px;
+    background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -35.8% -87px;
     width: 100px;
     height: 52px;
     position: absolute;
@@ -55,7 +56,7 @@ background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -35.8% -87
 }
 
 .col-span-forum-3.image_winter3 {
-background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -61.4% -87px;
+    background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -61.4% -87px;
     width: 100px;
     height: 52px;
     position: absolute;
@@ -81,7 +82,7 @@ background: url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) -61.4% -87
     top: 23px;
 }
 .forabg .header, .forumbg .header {
-background: #369FCF url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) 0 -150px;
+    background: #369FCF url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) 0 -150px;
 }
 .module:before {
     content: "";
@@ -97,3 +98,34 @@ background: #369FCF url(https://i.servimg.com/u/f21/11/80/17/98/hohoho11.png) 0 
   position: relative;
   overflow: visible;
 }
+.xmas-hat-profile img {
+ width: 100px;
+ margin-left: -50px;
+ margin-top: -12px;
+ z-index: 9;
+ float: left;
+ position: absolute;
+}
+.xmas-hat-lastTopics img {
+ width: 30px;
+ margin-left: -9px;
+ margin-top: -2px;
+ z-index: 9;
+ float: left;
+ position: relative;
+}
+.xmas-hat-lastTopics {
+ float: left;
+ margin-right: -26px;
+ position: relative;
+ top: -1px;
+}
+.xmas-hat-Conexion img {
+ width: 100px;
+ margin-left: -35px;
+ margin-top: -15px;
+ z-index: 9;
+ float: left;
+ position: absolute;
+}
+<img style="position: fixed; bottom: 3%; right: 5px;border: 0px; width: 100px; height: 100px;" src="https://i.servimg.com/u/f73/17/39/93/85/2hqqqg10.gif" />
